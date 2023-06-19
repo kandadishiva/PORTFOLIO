@@ -16,7 +16,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import python from "./tech/python.jpg";
-import Java from "./tech/Java.png";
+import Java from "./tech/java.png";
 import c from "./tech/c.png";
 import sql from "./tech/sql.png";
 import Django from "./tech/Django.png";
